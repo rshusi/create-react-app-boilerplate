@@ -50,7 +50,7 @@ View [changelog](CHANGELOG.md)
 
 Current build:
 
-- v0.3.0 - 2017-08-02 (Modified dependencies and folder structure)
+- v0.3.0 - 2019-05-20 (Modified dependencies and folder structure)
 
 Older builds:
 

@@ -1,8 +1,8 @@
 {
   "name": "create-react-app-boilerplate",
-  "version": "0.3.0",
+  "version": "0.2.0",
   "description": "A create-react-app boilerplate with -- redux, react-router, sass loader and bootstrap.",
-  "author": "Ronnel James Miranda Bote <rshusi> (https://github.com/ronneljamesbote)",
+  "author": "Ronnel James Miranda Bote <rshusi> (https://github.com/rshusi)",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^4.3.1",

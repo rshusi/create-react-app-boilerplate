@@ -15,7 +15,7 @@ A create-react-app boilerplate with:
 Clone the repository
 
 ```
-git clone https://github.com/ronneljames.bote/create-react-app-boilerplate
+git clone https://github.com/ronneljamesbote/create-react-app-boilerplate
 ```
 
 Run the command below to install node packages

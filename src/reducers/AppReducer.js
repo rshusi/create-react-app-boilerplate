@@ -1,7 +1,7 @@
-import { APP_LOAD } from '../constants/action-types';
+import { APP_LOAD } from "../constants/action-types";
 
 const initialState = {
-  loaded: false,
+  loaded: false
 };
 
 const AppReducer = (state = initialState, action) => {
@@ -9,7 +9,7 @@ const AppReducer = (state = initialState, action) => {
     case APP_LOAD:
       state = {
         ...state,
-        loaded: true,
+        loaded: true
       };
       break;
     default:

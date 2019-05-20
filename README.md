@@ -6,33 +6,40 @@ A create-react-app boilerplate with:
 - React Router
 - React Bootstrap
 - Bootstrap
-- SASS Loader
+- SASS
 
 ## Getting Started
 
 ### Installing
 
 Clone the repository
+
 ```
-git clone https://github.com/rshusi/create-react-app-boilerplate
+git clone https://github.com/ronneljames.bote/create-react-app-boilerplate
 ```
 
 Run the command below to install node packages
+
 ```
 npm install
 ```
+
 or
+
 ```
 yarn install
 ```
 
 ### Running
 
-To start the application run the command below, open a browser and go to ```http://localhost:3000```
+To start the application run the command below, open a browser and go to `http://localhost:3000`
+
 ```
 npm start
 ```
+
 or
+
 ```
 yarn start
 ```
@@ -42,10 +49,13 @@ yarn start
 View [changelog](CHANGELOG.md)
 
 Current build:
-- v0.1.0 - 2017-08-02
+
+- v0.3.0 - 2017-08-02 (Modified dependencies and folder structure)
 
 Older builds:
-- none
+
+- v0.2.0 - 2018-11-18 (Bump package versions)
+- v0.1.0 - 2017-08-02 (Initial project phase)
 
 ## License
 
@@ -57,6 +67,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [creat-react-app](https://github.com/facebookincubator/create-react-app)
 - [redux](http://redux.js.org/)
 - [react-router](https://github.com/ReactTraining/react-router)
-- [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
 - [Bootstrap](http://getbootstrap.com/)
+- [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
 - [SASS](http://sass-lang.com/)
